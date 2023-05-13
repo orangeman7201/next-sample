@@ -18,6 +18,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "stories/StyledButton.mdx", "stories/StyledButton.stories.mdx"],
   "exclude": ["node_modules"]
 }
